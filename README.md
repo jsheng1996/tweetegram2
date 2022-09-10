@@ -1,5 +1,5 @@
 # Tweetegram2
-Simple Python script to pipe Tweets from user(s) to Telegram - implemented for use with Twitter API v2
+Simple Python script to pipe Tweets from selected user(s) to Telegram - implemented for use with Twitter API v2
 
 ## How to use:
 1. Clone repository
